@@ -1,0 +1,8 @@
+{
+  "name": "pewter-data",
+  "displayName": "Pewter Data",
+  "version": "0.1.0",
+  "description": "Explore licensing company data or define an enterprise data sourcing request with Pewter Data. Prepare a concise inquiry and use Pewter’s owner or buyer form to contact the team.",
+  "author": { "name": "Pewter Data", "url": "https://pewterdata.com" },
+  "license": "LicenseRef-Pewter-Proprietary"
+}
